@@ -86,6 +86,7 @@ Each Week folder will contain the tasks to be completed most probably the one we
 
 
 ##  Tips for Success
+task completed
 
 * Pull updates **before every class**
 * Keep commits clean and meaningful
